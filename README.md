@@ -1,2 +1,2 @@
 # gold-price-analyzer
-My first Python project : you can use it for gold price
+A simple Python application to analyze gold prices, calculate minimum, maximum, average, and generate basic buy/sell signals.
